@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ORM Showdown</string>
+    <string name="header">ORM Benchmark</string>
+    <string name="prompt">Which ORM would you like to test?</string>
+    <string name="sugarApp">Sugar ORM (Sqlite)</string>
+    <string name="realm">Realm</string>
+    <string name="testPrompt">Which test format would you like to run?</string>
+    <string name="timedTest">Timed</string>
+    <string name="fixedTest">Fixed Number of Records</string>
+    <string name="startTest">Start Testing!</string>
+    <string name="fixedprompt">Please enter a number of records you would like to create</string>
+    <string name="timedprompt">Please enter how long to run test (in minutes)</string>
+</resources>

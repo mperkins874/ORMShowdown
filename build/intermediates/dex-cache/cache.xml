@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/matt/RealmDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/matt/RealmDemo/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.4.0_51e75da0e1af2a5da60d59ce1bf2be1323b47693.jar" />
+    </item>
+    <item
+        jar="/Users/matt/RealmDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/matt/RealmDemo/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-23.4.0_e2e5c7fcad176e694400f60545ae8e2fe9bbe4f6.jar" />
+    </item>
+    <item
+        jar="/Users/matt/.gradle/caches/modules-2/files-2.1/de.greenrobot/eventbus/2.4.0/ddd166d01b3158d1c00576d29f7ed15c030df719/eventbus-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="/Users/matt/RealmDemo/app/build/intermediates/pre-dexed/release/eventbus-2.4.0_a59f30ac36f36da21908d521bd0f53bd29bf3668.jar" />
+    </item>
+    <item
+        jar="/Users/matt/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/matt/RealmDemo/app/build/intermediates/pre-dexed/release/support-annotations-23.4.0_0f97fab461ea2b12c7dc7f99ece57ef2fcdf8c3a.jar" />
+    </item>
+    <item
+        jar="/Users/matt/RealmDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/matt/RealmDemo/app/build/intermediates/pre-dexed/release/internal_impl-23.4.0_92af27e996f5eafca4d7fc7d5308d355a84ccf18.jar" />
+    </item>
+    <item
+        jar="/Users/matt/RealmDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/matt/RealmDemo/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.4.0_ecad6eda15902c47b1bb2bafeabb4c34cfc1d2f5.jar" />
+    </item>
+    <item
+        jar="/Users/matt/RealmDemo/app/build/intermediates/exploded-aar/com.github.satyan/sugar/1.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d59de211e85bc8c7f75c7a4890d229ff8c4dab87">
+        <dex dex="/Users/matt/RealmDemo/app/build/intermediates/pre-dexed/release/com.github.satyan-sugar-1.3.1_35d52245923bc8c650397825a8c8a9c6c1a7a2e6.jar" />
+    </item>
+    <item
+        jar="/Users/matt/.gradle/caches/modules-2/files-2.1/io.realm/realm-android/0.87.5/ab4e1fead1380252dad0e95658e53ea0c113e89c/realm-android-0.87.5.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ab4e1fead1380252dad0e95658e53ea0c113e89c">
+        <dex dex="/Users/matt/RealmDemo/app/build/intermediates/pre-dexed/release/realm-android-0.87.5_329b2f2945202fedd7a4e052136d061a642cd2af.jar" />
+    </item>
+    <item
+        jar="/Users/matt/RealmDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/matt/RealmDemo/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-23.4.0_ec87ad3c364d96d6be23de6924e324d9e10972b9.jar" />
+    </item>
+
+</items>
